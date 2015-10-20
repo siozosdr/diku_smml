@@ -1,0 +1,6 @@
+raw:
+- validation:87.7551%
+- test: 86.5979% (84/97)
+normalized:
+- validation: 91,8367%
+- test: 89.6907% (87/97)

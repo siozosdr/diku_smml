@@ -1,0 +1,19 @@
+
+# IDE configuration
+.idea/
+
+# assignment files that are generated
+assignment1/*.png
+outfile.txt
+
+# Latex files
+*.aux
+*.log
+*.out
+*.pdf
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.dvi
+*.report.tex.swp
+*.pyc
